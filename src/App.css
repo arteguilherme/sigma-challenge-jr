@@ -1,0 +1,190 @@
+body {
+  font-family: 'Bai Jamjuree', sans-serif !important;
+  background-color: #ededed;
+}
+
+.top {
+  background-color: #00b050;
+  margin: 0 20;
+}
+
+.top .site-title {
+  margin: 0 auto;
+}
+
+.top .site-title .title {
+  color: #ffffff;
+  font-size: 38px;
+}
+
+.top .site-title .subTitle {
+  color: #ffffff;
+  font-size: 18px;
+  width: 200px;
+  background-color: #ffc000;
+  padding: 15px;
+  text-align: center;
+  border-bottom: 3px solid #dda600;
+}
+
+.top .site-title .subTitle span{
+  font-weight: 800;
+}
+
+.top .main-menu {
+  background-color: #008c40;
+}
+
+.top .main-menu #main-menu ul {
+  margin: auto;
+}
+
+.top .main-menu #main-menu ul li a {
+  font-size: 18px;
+  color: #ffffff;
+}
+
+
+.main-candidatos .title {
+  width: 27%;
+  margin: auto;
+  padding: 50px 0;
+  color: #3f3f95;
+  text-transform: uppercase;
+  font-size: 25px;
+  text-align: center;
+}
+
+.main-candidatos .title span {
+  font-size: 31px;
+  font-weight: bold;
+}
+
+.main-candidatos .btn-candidatos {
+  padding: 50px 0;
+  width: 18%;
+  margin: auto;
+}
+
+.main-candidatos .btn-candidatos .btn {
+  padding: 10px 45px;
+  background-color: #00b050;
+  color: #ffffff;
+}
+
+.main-candidatos .btn-candidatos .btn:hover {
+  background-color: #008c40;
+}
+
+.main-candidatos .btn-candidatos .btn i {
+  padding: 0 0 0 15px;
+}
+
+.main-candidatos .list-candidatos .card a {
+  text-decoration: none;
+}
+
+.main-candidatos .buscar-candidato {
+  margin-bottom: 50px;
+}
+
+.main-candidatos .list-candidatos .card {
+  height: 95%;
+  margin-bottom: 20px !important;
+}
+
+.main-candidatos .list-candidatos .card .card-body h4.card-text {
+  font-size: 20px;
+  text-align: center;
+  color: #333333;
+}
+
+.main-candidatos .list-candidatos .card .card-body p.card-text {
+  color: #8b8a8a;
+  font-size: 25px;
+  text-align: center;
+}
+
+.main-candidatos .list-candidatos .card .card-body p.card-text span {
+  color: #3f3f95;
+}
+
+.main-estaduais .title {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  color: #3f3f95;
+}
+
+.main-estaduais .search {
+  margin: 50px 0;
+}
+
+.main-estaduais .search .btn {
+  padding: 0 50px;
+  background-color: #00b050;
+  border-color: #00b050;
+}
+
+.main-estaduais .search .btn:hover {
+  background-color: #008c40;
+  border-color: #008c40;
+}
+
+.main-estaduais .list-estados{
+  margin-bottom: 50px;
+}
+
+.main-estaduais .list-estados ul li a{
+  color: #3f3f95
+}
+
+.candidato-detalhe {
+  background-color: #dadada;
+  padding: 50px 0;
+}
+
+.candidato-detalhe .img-candidato {
+  margin-right: 20px;
+}
+
+.candidato-detalhe .candidato-info p {
+  color: #333333;
+  font-size: 18px;
+}
+
+.candidato-detalhe .candidato-info h1 {
+  color: #333333;
+  font-size: 30px;
+  margin-top: -20px;
+  width: 70%;
+}
+
+.candidato-detalhe .candidato-info .partido-nome {
+  color: #8b8a8a;
+  font-size: 18px;
+  margin-top: -10px;
+}
+
+.candidato-detalhe .candidato-info strong {
+  color: #3f3f95;
+  position: relative;
+  top: -112px;
+  left: 400px;
+  font-size: 60px;
+  border: solid;
+  padding: 5px 15px;
+}
+
+.candidato-detalhe .candidato-info ul {
+  margin-top: -80px;
+}
+
+.candidato-detalhe .candidato-info li {
+  list-style: none;
+  margin-left: -40px;
+}
+
+.candidato-detalhe .candidato-info li p {
+  margin-bottom: 0px;
+}
